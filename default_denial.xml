@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-04 11:44:16">
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="GeorgeGrey-PC">5b272e2e534000102c50ddeeff7b1279</computer>
+<denial_date>2024-06-07</denial_date>
+<denial_id>Denial 2</denial_id>
+<discovery_model display_value="86234REVITS_2015_0F 2015">135b4bb0bb4c00109c5f1272dbdb75f6</discovery_model>
+<group display_value="Engineering West">cf272e2e534000102c50ddeeff7b1210</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-07 11:41:00</last_denial_time>
+<license_server display_value="LMS West">cb272e2e534000102c50ddeeff7b1214</license_server>
+<license_type display_value="Token">479a099c73723300b19ba24853f6a74a</license_type>
+<norm_product display_value="AutoCAD Architecture">e2105c060b3022002d6c650d37673ae2</norm_product>
+<norm_publisher display_value="Autodesk Inc.">934181fec0a8000b1faf2ba67247ec78</norm_publisher>
+<product>86234REVITS_2015_0F</product>
+<publisher>adskflex</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4837ae2e534000102c50ddeeff7b1215</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>5</total_denial_count>
+<user display_value="George Grey">17272e2e534000102c50ddeeff7b1279</user>
+<version>2015</version>
+<workstation display_value="GeorgeGrey-PC">d3272e2e534000102c50ddeeff7b127a</workstation>
+</samp_eng_app_denial>
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="RachelLarrison-PC">9b272e2e534000102c50ddeeff7b12b4</computer>
+<denial_date>2024-06-09</denial_date>
+<denial_id>Denial 3</denial_id>
+<discovery_model display_value="Engine 10.7.1">9f5b4bb0bb4c00109c5f1272dbdb75f9</discovery_model>
+<group display_value="Engineering Central">07272e2e534000102c50ddeeff7b1211</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-09 09:41:00</last_denial_time>
+<license_server display_value="LMS Central">cf272e2e534000102c50ddeeff7b1215</license_server>
+<license_type display_value="Floating">3644c91c73723300b19ba24853f6a78c</license_type>
+<norm_product display_value="ArcGIS Engine">2f60af5cdb82338015d2110b0b961913</norm_product>
+<norm_publisher display_value="ESRI">a91e0374bb4c00109c5f1272dbdb752c</norm_publisher>
+<product>Engine</product>
+<publisher>ARCGIS</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>5437ee2e534000102c50ddeeff7b121e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>2</total_denial_count>
+<user display_value="Rachel Larrison">57272e2e534000102c50ddeeff7b12b4</user>
+<version>10.7.1</version>
+<workstation display_value="RachelLarrison-PC">17272e2e534000102c50ddeeff7b12b5</workstation>
+</samp_eng_app_denial>
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="GeorgeGrey-PC">5b272e2e534000102c50ddeeff7b1279</computer>
+<denial_date>2024-06-25</denial_date>
+<denial_id>Denial 5</denial_id>
+<discovery_model display_value="86234REVITS_2015_0F 2015">135b4bb0bb4c00109c5f1272dbdb75f6</discovery_model>
+<group display_value="Engineering West">cf272e2e534000102c50ddeeff7b1210</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-25 11:41:00</last_denial_time>
+<license_server display_value="LMS West">cb272e2e534000102c50ddeeff7b1214</license_server>
+<license_type display_value="Token">479a099c73723300b19ba24853f6a74a</license_type>
+<norm_product display_value="AutoCAD Architecture">e2105c060b3022002d6c650d37673ae2</norm_product>
+<norm_publisher display_value="Autodesk Inc.">934181fec0a8000b1faf2ba67247ec78</norm_publisher>
+<product>86234REVITS_2015_0F</product>
+<publisher>adskflex</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8c37ae2e534000102c50ddeeff7b125b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>1</total_denial_count>
+<user display_value="George Grey">17272e2e534000102c50ddeeff7b1279</user>
+<version>2015</version>
+<workstation display_value="GeorgeGrey-PC">d3272e2e534000102c50ddeeff7b127a</workstation>
+</samp_eng_app_denial>
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="DavidLoo-PC">9b272e2e534000102c50ddeeff7b124b</computer>
+<denial_date>2024-06-22</denial_date>
+<denial_id>Denial 4</denial_id>
+<discovery_model display_value="84600ACDLT_2019_0F 2019">5b5b4bb0bb4c00109c5f1272dbdb75f3</discovery_model>
+<group display_value="Engineering East">07272e2e534000102c50ddeeff7b1210</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-22 11:41:00</last_denial_time>
+<license_server display_value="LMS East">47272e2e534000102c50ddeeff7b1212</license_server>
+<license_type display_value="Floating">3644c91c73723300b19ba24853f6a78c</license_type>
+<norm_product display_value="AutoCAD LT">aa105c060b3022002d6c650d37673ae2</norm_product>
+<norm_publisher display_value="Autodesk Inc.">934181fec0a8000b1faf2ba67247ec78</norm_publisher>
+<product>84600ACDLT_2019_0F</product>
+<publisher>adskflex</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>b3276e2e534000102c50ddeeff7b129e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>2</total_denial_count>
+<user display_value="David Loo">57272e2e534000102c50ddeeff7b124b</user>
+<version>2019</version>
+<workstation display_value="DavidLoo-PC">17272e2e534000102c50ddeeff7b124c</workstation>
+</samp_eng_app_denial>
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="RachelLarrison-PC">9b272e2e534000102c50ddeeff7b12b4</computer>
+<denial_date>2024-06-29</denial_date>
+<denial_id>Denial 6</denial_id>
+<discovery_model display_value="Engine 10.7.1">9f5b4bb0bb4c00109c5f1272dbdb75f9</discovery_model>
+<group display_value="Engineering Central">07272e2e534000102c50ddeeff7b1211</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-29 12:41:00</last_denial_time>
+<license_server display_value="LMS Central">cf272e2e534000102c50ddeeff7b1215</license_server>
+<license_type display_value="Floating">3644c91c73723300b19ba24853f6a78c</license_type>
+<norm_product display_value="ArcGIS Engine">2f60af5cdb82338015d2110b0b961913</norm_product>
+<norm_publisher display_value="ESRI">a91e0374bb4c00109c5f1272dbdb752c</norm_publisher>
+<product>Engine</product>
+<publisher>ARCGIS</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d837ee2e534000102c50ddeeff7b125f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>3</total_denial_count>
+<user display_value="Rachel Larrison">57272e2e534000102c50ddeeff7b12b4</user>
+<version>10.7.1</version>
+<workstation display_value="RachelLarrison-PC">17272e2e534000102c50ddeeff7b12b5</workstation>
+</samp_eng_app_denial>
+<samp_eng_app_denial action="INSERT_OR_UPDATE">
+<additional_key/>
+<computer display_value="DavidLoo-PC">9b272e2e534000102c50ddeeff7b124b</computer>
+<denial_date>2024-06-06</denial_date>
+<denial_id>Denial 1</denial_id>
+<discovery_model display_value="84600ACDLT_2019_0F 2019">5b5b4bb0bb4c00109c5f1272dbdb75f3</discovery_model>
+<group display_value="Engineering East">07272e2e534000102c50ddeeff7b1210</group>
+<is_product_normalized>true</is_product_normalized>
+<last_denial_time>2024-06-06 09:41:00</last_denial_time>
+<license_server display_value="LMS East">47272e2e534000102c50ddeeff7b1212</license_server>
+<license_type display_value="Floating">3644c91c73723300b19ba24853f6a78c</license_type>
+<norm_product display_value="AutoCAD LT">aa105c060b3022002d6c650d37673ae2</norm_product>
+<norm_publisher display_value="Autodesk Inc.">934181fec0a8000b1faf2ba67247ec78</norm_publisher>
+<product>84600ACDLT_2019_0F</product>
+<publisher>adskflex</publisher>
+<source>OpenLM</source>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-07-03 17:33:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>f7276e2e534000102c50ddeeff7b1279</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-07-03 17:33:42</sys_updated_on>
+<total_denial_count>3</total_denial_count>
+<user display_value="David Loo">57272e2e534000102c50ddeeff7b124b</user>
+<version>2019</version>
+<workstation display_value="DavidLoo-PC">17272e2e534000102c50ddeeff7b124c</workstation>
+</samp_eng_app_denial>
+</unload>

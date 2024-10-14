@@ -237,6 +237,7 @@ sidebar_bg_img = """
     </style>                 
             
 """
+current_date = datetime.today()
 def upload_xml(db_path, xml_file_path):
         # Connect to the SQLite database
         conn = sqlite3.connect(db_path)
@@ -512,6 +513,8 @@ def main():
                 # If a new date is provided, update the usage date
                 if new_date is not None:
                     error = usg.update_usage_date()
+                    new_unload_date = current_date.strftime("%Y-%m-%d")
+                    root.set('unload_date',new_unload_date)
                  # If a new total idle duration is provided, update the idle duration
                 if total_idle_dur is not None:
                     usg.update_usage_idle_dur()
@@ -624,6 +627,8 @@ def main():
                 # If a new date is provided, update the concurrent date
                 if new_date is not None:
                     error = conc.update_concurrent_date()
+                    new_unload_date = current_date.strftime("%Y-%m-%d")
+                    root.set('unload_date',new_unload_date)
                 # Parse the updated concurrent data and save the modified XML
                 tree = conc.concurrent_parser()
                 modified_xml = save_modified_xml(file_name, tree)
@@ -698,6 +703,8 @@ def main():
                 # If a new date is provided, update the denial date
                 if new_date is not None:
                     error = deny.update_denial_date()
+                    new_unload_date = current_date.strftime("%Y-%m-%d")
+                    root.set('unload_date',new_unload_date)
                 # Parse the updated usage data and save the modified XML
                 tree = deny.denial_parser()
                 modified_xml = save_modified_xml(file_name, tree)
